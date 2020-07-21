@@ -1,0 +1,60 @@
+nav {
+    background-color: #646464;
+}
+
+.tac {
+    text-align: center;
+}
+
+.title {
+    font-size: 50px;
+    color: white;
+    margin-top: 20px;
+}
+
+.subtitle {
+    font-size: 20px;
+    color: white;
+}
+
+.est {
+    color: white;
+}
+
+.custom-font {
+    font-family: 'Fredoka One', cursive;
+}
+
+.nav-seperator {
+    color: white;
+    background: black;
+    height: 3px;
+}
+
+.drop-area {
+    border-bottom: 2px solid black;
+    color: #646464;
+    background-color: white;
+    width: 100%;
+    transition-duration: 0.5s;
+}
+
+.drop-area:hover {
+    color: black !important;
+}
+
+.active-page {
+    color: black !important;
+}
+
+.menu-buttons-brand {
+    font-size: 25px;
+    background: white;
+    border-radius: 100%;
+    margin: 15px;
+    transition-delay: 0.5s;
+}
+
+a {
+    text-decoration: none !important;
+}
